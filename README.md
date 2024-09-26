@@ -1,3 +1,11 @@
+#PROJETO: BUSCADOR CEP
+Site simples para busca de CEP de todo o Brasil, basta colocar o cep que você desejar, inteiramente feito por REACT.
+
+nos proximos tópicos está explicando como abrir o projeto!
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
